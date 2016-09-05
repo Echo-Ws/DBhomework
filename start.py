@@ -6,23 +6,24 @@ from spider.SearchSpider import SearchSpider
 from spider.RCSpider import RCSpider
 import requests
 import time
-
+import csv
 from logconfig import LogConfig
 logger = LogConfig.get_logger()
 reload(sys)
-sys.setdefaultencoding( "utf-8" )
+sys.setdefaultencoding("utf-8")
 
 
 # 登录，保存Session
 s_login = requests.session()
 w = WeiboLogin()
-# s_login = w.login()
 s_login = w.login_un()
 logger.info("login has finished")
 time.sleep(1.5)
 
 
 Search_urls = [
+    # 搜索关键词语：杨洋 傅园慧 可以运行
+    "http://m.weibo.cn/page/pageJson?containerid=&containerid=100103type%3D1%26q%3D%E6%9D%A8%E6%B4%8B+%E5%82%85%E5%9B%AD%E6%85%A7&type=all&queryVal=%E6%9D%A8%E6%B4%8B+%E5%82%85%E5%9B%AD%E6%85%A7&luicode=20000174&title=%E6%9D%A8%E6%B4%8B+%E5%82%85%E5%9B%AD%E6%85%A7&v_p=11&ext=&fid=100103type%3D1%26q%3D%E6%9D%A8%E6%B4%8B+%E5%82%85%E5%9B%AD%E6%85%A7&uicode=10000011&next_cursor=&page=",
     # 搜索关键词语：傅园慧 可以运行
     "http://m.weibo.cn/page/pageJson?containerid=&containerid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&type=all&queryVal=%E5%82%85%E5%9B%AD%E6%85%A7&luicode=10000011&lfid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&title=%E5%82%85%E5%9B%AD%E6%85%A7&v_p=11&ext=&fid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&uicode=10000011&next_cursor=&page=",
     # 搜索关键词语：洪荒少女 可以运行
@@ -41,15 +42,26 @@ Search_urls = [
     "http://m.weibo.cn/page/pageJson?containerid=&containerid=100103type%3D1%26q%3D%E9%87%8C%E7%BA%A6%E5%82%85%E5%9B%AD%E6%85%A7&type=all&queryVal=%E9%87%8C%E7%BA%A6%E5%82%85%E5%9B%AD%E6%85%A7&luicode=10000011&lfid=100103type%3D1%26q%3D%E5%A5%A5%E8%BF%90%E5%82%85%E5%9B%AD%E6%85%A7&title=%E9%87%8C%E7%BA%A6%E5%82%85%E5%9B%AD%E6%85%A7&v_p=11&ext=&fid=100103type%3D1%26q%3D%E9%87%8C%E7%BA%A6%E5%82%85%E5%9B%AD%E6%85%A7&uicode=10000011&next_cursor=&page=",
     # 搜索关键词语：傅园慧（香港） 可以运行
     "http://m.weibo.cn/page/pageJson?containerid=&containerid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89&type=all&queryVal=%E5%82%85%E5%9B%AD%E6%85%A7%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89&luicode=10000011&lfid=100103type%3D1%26q%3D%E9%87%8C%E7%BA%A6%E5%82%85%E5%9B%AD%E6%85%A7&title=%E5%82%85%E5%9B%AD%E6%85%A7%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89&v_p=11&ext=&fid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89&uicode=10000011&next_cursor=&page=",
-
-    ]
+        ]
 comment_urls = [
-    "http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=",
+    # "http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=",
 ]
 repose_urls = [
-    "http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=",
+    # "http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=",
 ]
 
-# spider = SearchSpider()
-spider = RCSpider()
-spider.run(repose_urls, s_login)
+reader = csv.reader(file('fyh_id.csv', 'rb'))
+for line in reader:
+    url = "http://m.weibo.cn/single/rcList?format=cards&id="+str(line[0])+"&type=repost&hot=0&page="
+    repose_urls.append(url)
+    url = "http://m.weibo.cn/single/rcList?format=cards&id="+str(line[0])+"&type=comment&hot=0&page="
+    comment_urls.append(url)
+
+
+rcspider = RCSpider()
+rcspider.run(repose_urls, s_login)
+rcspider.run(comment_urls, s_login)
+
+# search_spider = SearchSpider()
+# search_spider.run(Search_urls, s_login)
+

@@ -14,21 +14,25 @@ sys.setdefaultencoding("utf-8")
 
 class MainPageMongoPipeline(object):
     def __init__(self):
-        client = pymongo.MongoClient(host="222.201.139.158", port=27017)
+        client = pymongo.MongoClient(host="localhost", port=27017)
         self.db = client.yulin
 
-    def insert_main_info(self, data):
+    def insert_main_info(self, data, num):
         """
         插入用户微博主页信息 weibo_main_users
         :param data:
         :return:
         """
         try:
-            # collection = self.db['weibo_main_user']
-            collection = self.db['weibo_search'] # 爬low部分
-            for item in data:
-                collection.insert(item)
 
+            # collection = self.db['weibo_main_user']
+
+            # collection = self.db['weibo_search'] # 爬low部分
+            f = open("data", 'ab')
+            for item in data:
+                # collection.insert(item)
+                f.write(str(num)+"    "+str(item['text'])+"\n")
+            f.close()
         except Exception as e:
             logger.info(e.message)
             logger.info("Main Page Pipeline error")

@@ -18,14 +18,15 @@ class Spider(object):
         self.json = ""
         self.data = []
         self.login = ""
+        self.count = 0
 
-    # 获得需要的json文件
-    def get_json(self, search_url):
+    # 获得respond文件
+    def get_respond(self, search_url):
         s = self.login
         logger.info("main_url: " + search_url)
         r = s.get(search_url, headers=s.headers)
-        data_json = json.loads(r.text)
-        self.json = data_json
+        self.json = r.text
+        print self.json
 
     # 判断数据时候为空
     def is_empty(self):
@@ -48,7 +49,8 @@ class Spider(object):
         try:
             doc = self.data
             mp = MainPageMongoPipeline()
-            mp.insert_main_info(doc)
+            mp.insert_main_info(doc, self.count)
+            self.count += len(self.data)
         except Exception as e:
             logger.error(e.message)
 
@@ -63,9 +65,10 @@ class Spider(object):
             for i in range(100):
                 page = i+1
                 search_url = base_url+str(page)
-                self.get_json(search_url)
-                # 当页数超过可提供数时 cards：[]，利用此跳出
+                self.get_respond(search_url)
+
                 try:
+                    # 当页数超过可提供数时 cards：[]，利用此跳出
                     if self.is_empty():
                         print "页数没了!!!!!\n"
                         break
@@ -76,5 +79,6 @@ class Spider(object):
                 except Exception as e:
                     logger.error(e.message)
 
-            self.flush()
-        print "SearchSpider运行结束"
+        # 结束前刷一次缓存
+        self.flush()
+        print "RCSpider运行结束"

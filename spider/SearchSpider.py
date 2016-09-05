@@ -3,6 +3,7 @@
 import sys
 from spider import Spider
 from logconfig import LogConfig
+import json
 logger = LogConfig.get_logger()
 reload(sys)
 sys.setdefaultencoding("utf-8")
@@ -10,6 +11,8 @@ sys.setdefaultencoding("utf-8")
 
 class SearchSpider(Spider):
     def is_empty(self):
+        data_json = json.loads(self.json)
+        self.json = data_json
         return not self.json["cards"]
 
     def process_main(self, page):
