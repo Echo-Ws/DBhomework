@@ -2,6 +2,8 @@
 
 import logging
 from logging.handlers import RotatingFileHandler
+
+
 class LogConfig(object):
     @staticmethod
     def get_logger():

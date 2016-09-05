@@ -10,3 +10,563 @@
 2016-09-05 13:43:58,677 spider.py[line:25] INFO main_url: http://m.weibo.cn/page/pageJson?containerid=&containerid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&type=all&queryVal=%E5%82%85%E5%9B%AD%E6%85%A7&luicode=10000011&lfid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&title=%E5%82%85%E5%9B%AD%E6%85%A7&v_p=11&ext=&fid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&uicode=10000011&next_cursor=&page=2
 2016-09-05 13:43:58,677 spider.py[line:25] INFO main_url: http://m.weibo.cn/page/pageJson?containerid=&containerid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&type=all&queryVal=%E5%82%85%E5%9B%AD%E6%85%A7&luicode=10000011&lfid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&title=%E5%82%85%E5%9B%AD%E6%85%A7&v_p=11&ext=&fid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&uicode=10000011&next_cursor=&page=2
 2016-09-05 13:43:58,677 spider.py[line:25] INFO main_url: http://m.weibo.cn/page/pageJson?containerid=&containerid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&type=all&queryVal=%E5%82%85%E5%9B%AD%E6%85%A7&luicode=10000011&lfid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&title=%E5%82%85%E5%9B%AD%E6%85%A7&v_p=11&ext=&fid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7&uicode=10000011&next_cursor=&page=2
+2016-09-05 14:30:02,411 start.py[line:21] INFO login has finished
+2016-09-05 14:30:02,411 start.py[line:21] INFO login has finished
+2016-09-05 14:30:02,411 start.py[line:21] INFO login has finished
+2016-09-05 14:30:02,411 start.py[line:21] INFO login has finished
+2016-09-05 14:30:03,913 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:30:03,913 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:30:03,913 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:30:03,913 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:30:04,813 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:04,813 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:04,813 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:04,813 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:04,813 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:04,813 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:04,813 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:04,813 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:04,813 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:30:04,813 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:30:04,813 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:30:04,813 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:30:05,176 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:05,176 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:05,176 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:05,176 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:05,177 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:05,177 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:05,177 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:05,177 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:05,177 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:30:05,177 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:30:05,177 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:30:05,177 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:30:05,596 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:05,596 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:05,596 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:05,596 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:05,596 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:05,596 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:05,596 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:05,596 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:05,597 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=4
+2016-09-05 14:30:05,597 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=4
+2016-09-05 14:30:05,597 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=4
+2016-09-05 14:30:05,597 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=4
+2016-09-05 14:30:06,001 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,001 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,001 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,001 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,002 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,002 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,002 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,002 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,002 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=5
+2016-09-05 14:30:06,002 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=5
+2016-09-05 14:30:06,002 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=5
+2016-09-05 14:30:06,002 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=5
+2016-09-05 14:30:06,216 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,216 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,216 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,216 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,216 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,216 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,216 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,216 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,216 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=6
+2016-09-05 14:30:06,216 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=6
+2016-09-05 14:30:06,216 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=6
+2016-09-05 14:30:06,216 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=6
+2016-09-05 14:30:06,963 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,963 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,963 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,963 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:06,964 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,964 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,964 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,964 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:06,964 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=7
+2016-09-05 14:30:06,964 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=7
+2016-09-05 14:30:06,964 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=7
+2016-09-05 14:30:06,964 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=7
+2016-09-05 14:30:07,405 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:07,405 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:07,405 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:07,405 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:07,406 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:07,406 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:07,406 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:07,406 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:07,406 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=8
+2016-09-05 14:30:07,406 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=8
+2016-09-05 14:30:07,406 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=8
+2016-09-05 14:30:07,406 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=8
+2016-09-05 14:30:07,617 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:07,617 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:07,617 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:07,617 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:07,617 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:07,617 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:07,617 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:07,617 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:07,617 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=9
+2016-09-05 14:30:07,617 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=9
+2016-09-05 14:30:07,617 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=9
+2016-09-05 14:30:07,617 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=9
+2016-09-05 14:30:08,024 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,024 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,024 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,024 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,025 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,025 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,025 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,025 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,025 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=10
+2016-09-05 14:30:08,025 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=10
+2016-09-05 14:30:08,025 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=10
+2016-09-05 14:30:08,025 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=10
+2016-09-05 14:30:08,226 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,226 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,226 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,226 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,226 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,226 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,226 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,226 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,226 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=11
+2016-09-05 14:30:08,226 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=11
+2016-09-05 14:30:08,226 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=11
+2016-09-05 14:30:08,226 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=11
+2016-09-05 14:30:08,436 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,436 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,436 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,436 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,437 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,437 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,437 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,437 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,437 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=12
+2016-09-05 14:30:08,437 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=12
+2016-09-05 14:30:08,437 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=12
+2016-09-05 14:30:08,437 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=12
+2016-09-05 14:30:08,880 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,880 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,880 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,880 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:08,880 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,880 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,880 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,880 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:08,881 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=13
+2016-09-05 14:30:08,881 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=13
+2016-09-05 14:30:08,881 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=13
+2016-09-05 14:30:08,881 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=13
+2016-09-05 14:30:09,318 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:09,318 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:09,318 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:09,318 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:09,318 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:09,318 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:09,318 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:09,318 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:09,318 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=14
+2016-09-05 14:30:09,318 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=14
+2016-09-05 14:30:09,318 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=14
+2016-09-05 14:30:09,318 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=14
+2016-09-05 14:30:09,710 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:09,710 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:09,710 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:09,710 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:09,710 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:09,710 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:09,710 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:09,710 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:09,710 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=15
+2016-09-05 14:30:09,710 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=15
+2016-09-05 14:30:09,710 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=15
+2016-09-05 14:30:09,710 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=15
+2016-09-05 14:30:10,196 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:10,196 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:10,196 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:10,196 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:10,197 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:10,197 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:10,197 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:10,197 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:10,197 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=16
+2016-09-05 14:30:10,197 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=16
+2016-09-05 14:30:10,197 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=16
+2016-09-05 14:30:10,197 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=16
+2016-09-05 14:30:10,635 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:10,635 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:10,635 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:10,635 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:10,635 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:10,635 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:10,635 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:10,635 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:10,635 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=17
+2016-09-05 14:30:10,635 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=17
+2016-09-05 14:30:10,635 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=17
+2016-09-05 14:30:10,635 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=17
+2016-09-05 14:30:11,127 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,127 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,127 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,127 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,127 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,127 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,127 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,127 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,127 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=18
+2016-09-05 14:30:11,127 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=18
+2016-09-05 14:30:11,127 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=18
+2016-09-05 14:30:11,127 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=18
+2016-09-05 14:30:11,320 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,320 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,320 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,320 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,320 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,320 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,320 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,320 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,320 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=19
+2016-09-05 14:30:11,320 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=19
+2016-09-05 14:30:11,320 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=19
+2016-09-05 14:30:11,320 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=19
+2016-09-05 14:30:11,537 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,537 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,537 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,537 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:11,537 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,537 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,537 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,537 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:11,537 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=20
+2016-09-05 14:30:11,537 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=20
+2016-09-05 14:30:11,537 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=20
+2016-09-05 14:30:11,537 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=20
+2016-09-05 14:30:12,076 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:12,076 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:12,076 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:12,076 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:12,077 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:12,077 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:12,077 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:12,077 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:12,077 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=21
+2016-09-05 14:30:12,077 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=21
+2016-09-05 14:30:12,077 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=21
+2016-09-05 14:30:12,077 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=21
+2016-09-05 14:30:12,281 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:12,281 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:12,281 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:12,281 CommentSpider.py[line:23] ERROR list indices must be integers, not str
+2016-09-05 14:30:12,282 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:12,282 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:12,282 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:12,282 spider.py[line:76] ERROR local variable 'cards' referenced before assignment
+2016-09-05 14:30:12,283 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=22
+2016-09-05 14:30:12,283 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=22
+2016-09-05 14:30:12,283 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=22
+2016-09-05 14:30:12,283 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=22
+2016-09-05 14:30:47,965 start.py[line:21] INFO login has finished
+2016-09-05 14:30:47,965 start.py[line:21] INFO login has finished
+2016-09-05 14:30:47,965 start.py[line:21] INFO login has finished
+2016-09-05 14:30:47,965 start.py[line:21] INFO login has finished
+2016-09-05 14:30:49,466 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:30:49,466 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:30:49,466 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:30:49,466 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:30:50,147 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:30:50,147 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:30:50,147 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:30:50,147 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:30:52,469 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:30:52,469 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:30:52,469 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:30:52,469 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:31:22,677 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:31:22,677 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:31:22,677 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:31:22,677 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:31:24,869 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:31:24,869 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:31:24,869 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:31:24,869 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:31:55,124 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:31:55,124 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:31:55,124 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:31:55,124 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:31:58,462 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=4
+2016-09-05 14:31:58,462 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=4
+2016-09-05 14:31:58,462 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=4
+2016-09-05 14:31:58,462 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=4
+2016-09-05 14:32:28,699 spider.py[line:73] INFO -----uid: 3 main page has finished---
+2016-09-05 14:32:28,699 spider.py[line:73] INFO -----uid: 3 main page has finished---
+2016-09-05 14:32:28,699 spider.py[line:73] INFO -----uid: 3 main page has finished---
+2016-09-05 14:32:28,699 spider.py[line:73] INFO -----uid: 3 main page has finished---
+2016-09-05 14:32:32,490 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=5
+2016-09-05 14:32:32,490 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=5
+2016-09-05 14:32:32,490 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=5
+2016-09-05 14:32:32,490 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=5
+2016-09-05 14:33:02,734 spider.py[line:73] INFO -----uid: 4 main page has finished---
+2016-09-05 14:33:02,734 spider.py[line:73] INFO -----uid: 4 main page has finished---
+2016-09-05 14:33:02,734 spider.py[line:73] INFO -----uid: 4 main page has finished---
+2016-09-05 14:33:02,734 spider.py[line:73] INFO -----uid: 4 main page has finished---
+2016-09-05 14:33:05,774 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=6
+2016-09-05 14:33:05,774 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=6
+2016-09-05 14:33:05,774 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=6
+2016-09-05 14:33:05,774 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=6
+2016-09-05 14:33:36,046 spider.py[line:73] INFO -----uid: 5 main page has finished---
+2016-09-05 14:33:36,046 spider.py[line:73] INFO -----uid: 5 main page has finished---
+2016-09-05 14:33:36,046 spider.py[line:73] INFO -----uid: 5 main page has finished---
+2016-09-05 14:33:36,046 spider.py[line:73] INFO -----uid: 5 main page has finished---
+2016-09-05 14:33:39,301 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=7
+2016-09-05 14:33:39,301 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=7
+2016-09-05 14:33:39,301 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=7
+2016-09-05 14:33:39,301 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=7
+2016-09-05 14:34:09,773 spider.py[line:73] INFO -----uid: 6 main page has finished---
+2016-09-05 14:34:09,773 spider.py[line:73] INFO -----uid: 6 main page has finished---
+2016-09-05 14:34:09,773 spider.py[line:73] INFO -----uid: 6 main page has finished---
+2016-09-05 14:34:09,773 spider.py[line:73] INFO -----uid: 6 main page has finished---
+2016-09-05 14:34:13,483 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=8
+2016-09-05 14:34:13,483 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=8
+2016-09-05 14:34:13,483 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=8
+2016-09-05 14:34:13,483 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=8
+2016-09-05 14:34:43,689 spider.py[line:73] INFO -----uid: 7 main page has finished---
+2016-09-05 14:34:43,689 spider.py[line:73] INFO -----uid: 7 main page has finished---
+2016-09-05 14:34:43,689 spider.py[line:73] INFO -----uid: 7 main page has finished---
+2016-09-05 14:34:43,689 spider.py[line:73] INFO -----uid: 7 main page has finished---
+2016-09-05 14:34:46,287 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=9
+2016-09-05 14:34:46,287 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=9
+2016-09-05 14:34:46,287 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=9
+2016-09-05 14:34:46,287 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=9
+2016-09-05 14:34:55,810 start.py[line:21] INFO login has finished
+2016-09-05 14:34:55,810 start.py[line:21] INFO login has finished
+2016-09-05 14:34:55,810 start.py[line:21] INFO login has finished
+2016-09-05 14:34:55,810 start.py[line:21] INFO login has finished
+2016-09-05 14:34:57,312 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:34:57,312 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:34:57,312 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:34:57,312 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=1
+2016-09-05 14:34:57,716 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:34:57,716 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:34:57,716 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:34:57,716 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:35:01,158 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:35:01,158 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:35:01,158 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:35:01,158 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=2
+2016-09-05 14:35:31,379 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:35:31,379 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:35:31,379 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:35:31,379 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:35:33,758 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:35:33,758 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:35:33,758 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:35:33,758 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016027622851047&type=comment&hot=0&page=3
+2016-09-05 14:48:22,139 start.py[line:21] INFO login has finished
+2016-09-05 14:48:22,139 start.py[line:21] INFO login has finished
+2016-09-05 14:48:22,139 start.py[line:21] INFO login has finished
+2016-09-05 14:48:22,139 start.py[line:21] INFO login has finished
+2016-09-05 14:48:23,640 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:48:23,640 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:48:23,640 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:48:23,640 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:48:53,838 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:48:53,838 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:48:53,838 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:48:53,838 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:48:56,901 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:48:56,901 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:48:56,901 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:48:56,901 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:49:27,301 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:49:27,301 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:49:27,301 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:49:27,301 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:49:29,528 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 14:49:29,528 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 14:49:29,528 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 14:49:29,528 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 14:49:29,877 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:49:29,877 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:49:29,877 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:49:29,877 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:49:33,512 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 14:49:33,512 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 14:49:33,512 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 14:49:33,512 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 14:50:03,743 spider.py[line:73] INFO -----uid: 3 main page has finished---
+2016-09-05 14:50:03,743 spider.py[line:73] INFO -----uid: 3 main page has finished---
+2016-09-05 14:50:03,743 spider.py[line:73] INFO -----uid: 3 main page has finished---
+2016-09-05 14:50:03,743 spider.py[line:73] INFO -----uid: 3 main page has finished---
+2016-09-05 14:50:06,774 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=5
+2016-09-05 14:50:06,774 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=5
+2016-09-05 14:50:06,774 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=5
+2016-09-05 14:50:06,774 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=5
+2016-09-05 14:50:37,308 spider.py[line:73] INFO -----uid: 4 main page has finished---
+2016-09-05 14:50:37,308 spider.py[line:73] INFO -----uid: 4 main page has finished---
+2016-09-05 14:50:37,308 spider.py[line:73] INFO -----uid: 4 main page has finished---
+2016-09-05 14:50:37,308 spider.py[line:73] INFO -----uid: 4 main page has finished---
+2016-09-05 14:50:40,718 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=6
+2016-09-05 14:50:40,718 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=6
+2016-09-05 14:50:40,718 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=6
+2016-09-05 14:50:40,718 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=6
+2016-09-05 14:51:10,954 spider.py[line:73] INFO -----uid: 5 main page has finished---
+2016-09-05 14:51:10,954 spider.py[line:73] INFO -----uid: 5 main page has finished---
+2016-09-05 14:51:10,954 spider.py[line:73] INFO -----uid: 5 main page has finished---
+2016-09-05 14:51:10,954 spider.py[line:73] INFO -----uid: 5 main page has finished---
+2016-09-05 14:51:13,715 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=7
+2016-09-05 14:51:13,715 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=7
+2016-09-05 14:51:13,715 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=7
+2016-09-05 14:51:13,715 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=7
+2016-09-05 14:51:44,033 spider.py[line:73] INFO -----uid: 6 main page has finished---
+2016-09-05 14:51:44,033 spider.py[line:73] INFO -----uid: 6 main page has finished---
+2016-09-05 14:51:44,033 spider.py[line:73] INFO -----uid: 6 main page has finished---
+2016-09-05 14:51:44,033 spider.py[line:73] INFO -----uid: 6 main page has finished---
+2016-09-05 14:51:47,077 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=8
+2016-09-05 14:51:47,077 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=8
+2016-09-05 14:51:47,077 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=8
+2016-09-05 14:51:47,077 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=8
+2016-09-05 14:52:17,668 spider.py[line:73] INFO -----uid: 7 main page has finished---
+2016-09-05 14:52:17,668 spider.py[line:73] INFO -----uid: 7 main page has finished---
+2016-09-05 14:52:17,668 spider.py[line:73] INFO -----uid: 7 main page has finished---
+2016-09-05 14:52:17,668 spider.py[line:73] INFO -----uid: 7 main page has finished---
+2016-09-05 14:52:20,966 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=9
+2016-09-05 14:52:20,966 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=9
+2016-09-05 14:52:20,966 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=9
+2016-09-05 14:52:20,966 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=9
+2016-09-05 14:57:05,040 start.py[line:21] INFO login has finished
+2016-09-05 14:57:05,040 start.py[line:21] INFO login has finished
+2016-09-05 14:57:05,040 start.py[line:21] INFO login has finished
+2016-09-05 14:57:05,040 start.py[line:21] INFO login has finished
+2016-09-05 14:57:06,541 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:57:06,541 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:57:06,541 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:57:06,541 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:57:37,055 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:57:37,055 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:57:37,055 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:57:37,055 spider.py[line:73] INFO -----uid: 0 main page has finished---
+2016-09-05 14:57:38,471 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:57:38,471 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:57:38,471 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:57:38,471 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:58:08,867 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:58:08,867 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:58:08,867 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:58:08,867 spider.py[line:73] INFO -----uid: 1 main page has finished---
+2016-09-05 14:58:10,578 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 14:58:10,578 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 14:58:10,578 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 14:58:10,578 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 14:58:10,942 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:58:10,942 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:58:10,942 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:58:10,942 spider.py[line:73] INFO -----uid: 2 main page has finished---
+2016-09-05 14:58:12,216 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 14:58:12,216 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 14:58:12,216 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 14:58:12,216 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 14:58:55,773 start.py[line:21] INFO login has finished
+2016-09-05 14:58:55,773 start.py[line:21] INFO login has finished
+2016-09-05 14:58:55,773 start.py[line:21] INFO login has finished
+2016-09-05 14:58:55,773 start.py[line:21] INFO login has finished
+2016-09-05 14:58:57,275 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:58:57,275 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:58:57,275 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:58:57,275 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=1
+2016-09-05 14:59:27,748 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 14:59:27,748 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 14:59:27,748 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 14:59:27,748 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 14:59:27,748 spider.py[line:74] INFO -----uid: 0 main page has finished---
+2016-09-05 14:59:27,748 spider.py[line:74] INFO -----uid: 0 main page has finished---
+2016-09-05 14:59:27,748 spider.py[line:74] INFO -----uid: 0 main page has finished---
+2016-09-05 14:59:27,748 spider.py[line:74] INFO -----uid: 0 main page has finished---
+2016-09-05 14:59:29,847 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:59:29,847 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:59:29,847 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 14:59:29,847 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=2
+2016-09-05 15:00:00,043 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:00:00,043 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:00:00,043 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:00:00,043 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:00:00,044 spider.py[line:74] INFO -----uid: 1 main page has finished---
+2016-09-05 15:00:00,044 spider.py[line:74] INFO -----uid: 1 main page has finished---
+2016-09-05 15:00:00,044 spider.py[line:74] INFO -----uid: 1 main page has finished---
+2016-09-05 15:00:00,044 spider.py[line:74] INFO -----uid: 1 main page has finished---
+2016-09-05 15:00:02,891 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 15:00:02,891 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 15:00:02,891 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 15:00:02,891 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=3
+2016-09-05 15:00:04,356 spider.py[line:74] INFO -----uid: 2 main page has finished---
+2016-09-05 15:00:04,356 spider.py[line:74] INFO -----uid: 2 main page has finished---
+2016-09-05 15:00:04,356 spider.py[line:74] INFO -----uid: 2 main page has finished---
+2016-09-05 15:00:04,356 spider.py[line:74] INFO -----uid: 2 main page has finished---
+2016-09-05 15:00:07,089 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 15:00:07,089 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 15:00:07,089 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 15:00:07,089 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=4
+2016-09-05 15:00:37,470 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:00:37,470 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:00:37,470 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:00:37,470 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:00:37,471 spider.py[line:74] INFO -----uid: 3 main page has finished---
+2016-09-05 15:00:37,471 spider.py[line:74] INFO -----uid: 3 main page has finished---
+2016-09-05 15:00:37,471 spider.py[line:74] INFO -----uid: 3 main page has finished---
+2016-09-05 15:00:37,471 spider.py[line:74] INFO -----uid: 3 main page has finished---
+2016-09-05 15:00:39,502 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=5
+2016-09-05 15:00:39,502 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=5
+2016-09-05 15:00:39,502 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=5
+2016-09-05 15:00:39,502 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=5
+2016-09-05 15:01:09,720 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:01:09,720 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:01:09,720 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:01:09,720 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:01:09,721 spider.py[line:74] INFO -----uid: 4 main page has finished---
+2016-09-05 15:01:09,721 spider.py[line:74] INFO -----uid: 4 main page has finished---
+2016-09-05 15:01:09,721 spider.py[line:74] INFO -----uid: 4 main page has finished---
+2016-09-05 15:01:09,721 spider.py[line:74] INFO -----uid: 4 main page has finished---
+2016-09-05 15:01:11,865 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=6
+2016-09-05 15:01:11,865 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=6
+2016-09-05 15:01:11,865 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=6
+2016-09-05 15:01:11,865 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=6
+2016-09-05 15:01:42,288 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:01:42,288 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:01:42,288 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:01:42,288 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:01:42,288 spider.py[line:74] INFO -----uid: 5 main page has finished---
+2016-09-05 15:01:42,288 spider.py[line:74] INFO -----uid: 5 main page has finished---
+2016-09-05 15:01:42,288 spider.py[line:74] INFO -----uid: 5 main page has finished---
+2016-09-05 15:01:42,288 spider.py[line:74] INFO -----uid: 5 main page has finished---
+2016-09-05 15:01:44,429 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=7
+2016-09-05 15:01:44,429 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=7
+2016-09-05 15:01:44,429 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=7
+2016-09-05 15:01:44,429 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=7
+2016-09-05 15:02:14,651 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:02:14,651 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:02:14,651 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:02:14,651 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:02:14,651 spider.py[line:74] INFO -----uid: 6 main page has finished---
+2016-09-05 15:02:14,651 spider.py[line:74] INFO -----uid: 6 main page has finished---
+2016-09-05 15:02:14,651 spider.py[line:74] INFO -----uid: 6 main page has finished---
+2016-09-05 15:02:14,651 spider.py[line:74] INFO -----uid: 6 main page has finished---
+2016-09-05 15:02:17,570 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=8
+2016-09-05 15:02:17,570 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=8
+2016-09-05 15:02:17,570 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=8
+2016-09-05 15:02:17,570 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=8
+2016-09-05 15:02:48,155 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:02:48,155 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:02:48,155 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:02:48,155 spider.py[line:43] INFO -----成功插入10条数据---
+2016-09-05 15:02:48,156 spider.py[line:74] INFO -----uid: 7 main page has finished---
+2016-09-05 15:02:48,156 spider.py[line:74] INFO -----uid: 7 main page has finished---
+2016-09-05 15:02:48,156 spider.py[line:74] INFO -----uid: 7 main page has finished---
+2016-09-05 15:02:48,156 spider.py[line:74] INFO -----uid: 7 main page has finished---
+2016-09-05 15:02:49,901 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=9
+2016-09-05 15:02:49,901 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=9
+2016-09-05 15:02:49,901 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=9
+2016-09-05 15:02:49,901 spider.py[line:25] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014825505404463&type=repost&hot=0&page=9

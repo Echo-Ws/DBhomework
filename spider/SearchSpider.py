@@ -5,10 +5,13 @@ from spider import Spider
 from logconfig import LogConfig
 logger = LogConfig.get_logger()
 reload(sys)
-sys.setdefaultencoding( "utf-8" )
+sys.setdefaultencoding("utf-8")
 
 
 class SearchSpider(Spider):
+    def is_empty(self):
+        return not self.json["cards"]
+
     def process_main(self, page):
         try:
             data_json = self.json
@@ -24,8 +27,6 @@ class SearchSpider(Spider):
             user = mblog['user']
             print(user)
             print "\n!!!!!!!!!!!!!\n"
-            f = open("bloom/bloom_weibo.txt", "a")
-            f.write(str(mblog["id"]))
-            f.close()
+
             self.insert(mblog)
 

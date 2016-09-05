@@ -20,23 +20,27 @@ class Spider(object):
         self.login = ""
 
     # 获得需要的json文件
-    def getJson(self, search_url):
+    def get_json(self, search_url):
         s = self.login
         logger.info("main_url: " + search_url)
         r = s.get(search_url, headers=s.headers)
         data_json = json.loads(r.text)
         self.json = data_json
-        return data_json["cards"]
+
+    # 判断数据时候为空
+    def is_empty(self):
+        pass
 
     # 不同spider处理不同,利用多态实现
     def process_main(self, page):
         pass
 
     # 将数据写入缓存,缓存达到一定量时写入数据库
-    def insert(self, mblog):
-        self.data.append(mblog)
+    def insert(self, datum):
+        self.data.append(datum)
         if len(self.data) == 10:
             self.flush()
+            logger.info("-----成功插入10条数据---")
             self.data = []
 
     # 写入数据库
@@ -59,15 +63,16 @@ class Spider(object):
             for i in range(100):
                 page = i+1
                 search_url = base_url+str(page)
+                self.get_json(search_url)
                 # 当页数超过可提供数时 cards：[]，利用此跳出
                 try:
-                    if not self.getJson(search_url):
+                    if self.is_empty():
                         print "页数没了!!!!!\n"
                         break
 
                     self.process_main(page)
                     logger.info("-----uid: %s main page has finished---" % str(i))
-                    time.sleep(random.uniform(2, 4))
+                    time.sleep(random.uniform(1, 3))
                 except Exception as e:
                     logger.error(e.message)
 

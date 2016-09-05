@@ -83,10 +83,8 @@ class WeiboLogin(object):
         follower_url = "http://m.weibo.cn/page/tpl?containerid=1005051898385314_-_FOLLOWERS"
         s = requests.session()
         s.headers.update(headers)
-        # print(s.headers)
         r = s.get(follower_url,headers=s.headers)
-        # print(s.headers)
-        # print(r.text)
+
         return s
 def test():
     w_login = WeiboLogin()
