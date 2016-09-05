@@ -99,7 +99,6 @@ if __name__ == "__main__":
     fb.read_bloom()
     fb.update_bloom_file("23920323")
     fb.update_bloom("23920323")
-
 # if __name__ == "__main__":
 #     bl = Bloom()
 #     ids = bl.getIdsDataBase()
