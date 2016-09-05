@@ -2,10 +2,10 @@
 # -*- coding:utf-8 -*-
 import sys
 from weibo_login import WeiboLogin
-from request_main import MainRequest
+from spider.SearchSpider import SearchSpider
 import requests
 import time
-import random
+
 from logconfig import LogConfig
 logger = LogConfig.get_logger()
 reload(sys)
@@ -42,3 +42,7 @@ Search_urls = [
     "http://m.weibo.cn/page/pageJson?containerid=&containerid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89&type=all&queryVal=%E5%82%85%E5%9B%AD%E6%85%A7%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89&luicode=10000011&lfid=100103type%3D1%26q%3D%E9%87%8C%E7%BA%A6%E5%82%85%E5%9B%AD%E6%85%A7&title=%E5%82%85%E5%9B%AD%E6%85%A7%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89&v_p=11&ext=&fid=100103type%3D1%26q%3D%E5%82%85%E5%9B%AD%E6%85%A7%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89&uicode=10000011&next_cursor=&page=",
 
     ]
+
+searchspider = SearchSpider()
+
+searchspider.run(Search_urls, s_login)
