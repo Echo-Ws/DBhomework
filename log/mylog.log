@@ -12682,3 +12682,287 @@
 2016-09-05 22:38:28,372 spider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4007421196027353&type=repost&hot=0&page=4
 2016-09-05 22:38:28,372 spider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4007421196027353&type=repost&hot=0&page=4
 2016-09-05 22:38:28,372 spider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4007421196027353&type=repost&hot=0&page=4
+2016-09-07 00:30:14,081 start.py[line:20] INFO login has finished
+2016-09-07 00:30:14,081 start.py[line:20] INFO login has finished
+2016-09-07 00:30:14,081 start.py[line:20] INFO login has finished
+2016-09-07 00:30:14,081 start.py[line:20] INFO login has finished
+2016-09-07 00:30:15,631 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015960832462198&type=repost&hot=0&page=1
+2016-09-07 00:30:15,631 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015960832462198&type=repost&hot=0&page=1
+2016-09-07 00:30:15,631 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015960832462198&type=repost&hot=0&page=1
+2016-09-07 00:30:15,631 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015960832462198&type=repost&hot=0&page=1
+2016-09-07 00:30:15,891 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015945145717288&type=repost&hot=0&page=1
+2016-09-07 00:30:15,891 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015945145717288&type=repost&hot=0&page=1
+2016-09-07 00:30:15,891 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015945145717288&type=repost&hot=0&page=1
+2016-09-07 00:30:15,891 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015945145717288&type=repost&hot=0&page=1
+2016-09-07 00:30:16,204 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015940594755873&type=repost&hot=0&page=1
+2016-09-07 00:30:16,204 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015940594755873&type=repost&hot=0&page=1
+2016-09-07 00:30:16,204 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015940594755873&type=repost&hot=0&page=1
+2016-09-07 00:30:16,204 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015940594755873&type=repost&hot=0&page=1
+2016-09-07 00:30:16,375 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015939223415122&type=repost&hot=0&page=1
+2016-09-07 00:30:16,375 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015939223415122&type=repost&hot=0&page=1
+2016-09-07 00:30:16,375 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015939223415122&type=repost&hot=0&page=1
+2016-09-07 00:30:16,375 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015939223415122&type=repost&hot=0&page=1
+2016-09-07 00:30:16,531 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015935113235608&type=repost&hot=0&page=1
+2016-09-07 00:30:16,531 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015935113235608&type=repost&hot=0&page=1
+2016-09-07 00:30:16,531 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015935113235608&type=repost&hot=0&page=1
+2016-09-07 00:30:16,531 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015935113235608&type=repost&hot=0&page=1
+2016-09-07 00:30:16,699 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922362428217&type=repost&hot=0&page=1
+2016-09-07 00:30:16,699 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922362428217&type=repost&hot=0&page=1
+2016-09-07 00:30:16,699 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922362428217&type=repost&hot=0&page=1
+2016-09-07 00:30:16,699 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922362428217&type=repost&hot=0&page=1
+2016-09-07 00:30:17,014 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922056952411&type=repost&hot=0&page=1
+2016-09-07 00:30:17,014 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922056952411&type=repost&hot=0&page=1
+2016-09-07 00:30:17,014 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922056952411&type=repost&hot=0&page=1
+2016-09-07 00:30:17,014 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922056952411&type=repost&hot=0&page=1
+2016-09-07 00:30:17,209 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015910967104601&type=repost&hot=0&page=1
+2016-09-07 00:30:17,209 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015910967104601&type=repost&hot=0&page=1
+2016-09-07 00:30:17,209 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015910967104601&type=repost&hot=0&page=1
+2016-09-07 00:30:17,209 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015910967104601&type=repost&hot=0&page=1
+2016-09-07 00:30:17,354 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:30:17,354 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:30:17,354 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:30:17,354 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:30:17,354 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015803038668350&type=repost&hot=0&page=1
+2016-09-07 00:30:17,354 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015803038668350&type=repost&hot=0&page=1
+2016-09-07 00:30:17,354 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015803038668350&type=repost&hot=0&page=1
+2016-09-07 00:30:17,354 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015803038668350&type=repost&hot=0&page=1
+2016-09-07 00:30:17,690 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015775252178140&type=repost&hot=0&page=1
+2016-09-07 00:30:17,690 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015775252178140&type=repost&hot=0&page=1
+2016-09-07 00:30:17,690 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015775252178140&type=repost&hot=0&page=1
+2016-09-07 00:30:17,690 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015775252178140&type=repost&hot=0&page=1
+2016-09-07 00:30:17,846 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=1
+2016-09-07 00:30:17,846 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=1
+2016-09-07 00:30:17,846 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=1
+2016-09-07 00:30:17,846 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=1
+2016-09-07 00:30:18,222 spider.py[line:77] INFO -----uid: 0 main page has finished---
+2016-09-07 00:30:18,222 spider.py[line:77] INFO -----uid: 0 main page has finished---
+2016-09-07 00:30:18,222 spider.py[line:77] INFO -----uid: 0 main page has finished---
+2016-09-07 00:30:18,222 spider.py[line:77] INFO -----uid: 0 main page has finished---
+2016-09-07 00:30:20,481 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=2
+2016-09-07 00:30:20,481 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=2
+2016-09-07 00:30:20,481 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=2
+2016-09-07 00:30:20,481 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=2
+2016-09-07 00:30:20,975 spider.py[line:44] INFO -----成功插入10条数据---
+2016-09-07 00:30:20,975 spider.py[line:44] INFO -----成功插入10条数据---
+2016-09-07 00:30:20,975 spider.py[line:44] INFO -----成功插入10条数据---
+2016-09-07 00:30:20,975 spider.py[line:44] INFO -----成功插入10条数据---
+2016-09-07 00:30:20,975 spider.py[line:77] INFO -----uid: 1 main page has finished---
+2016-09-07 00:30:20,975 spider.py[line:77] INFO -----uid: 1 main page has finished---
+2016-09-07 00:30:20,975 spider.py[line:77] INFO -----uid: 1 main page has finished---
+2016-09-07 00:30:20,975 spider.py[line:77] INFO -----uid: 1 main page has finished---
+2016-09-07 00:31:35,196 start.py[line:20] INFO login has finished
+2016-09-07 00:31:35,196 start.py[line:20] INFO login has finished
+2016-09-07 00:31:35,196 start.py[line:20] INFO login has finished
+2016-09-07 00:31:35,196 start.py[line:20] INFO login has finished
+2016-09-07 00:31:36,704 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015960832462198&type=repost&hot=0&page=1
+2016-09-07 00:31:36,704 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015960832462198&type=repost&hot=0&page=1
+2016-09-07 00:31:36,704 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015960832462198&type=repost&hot=0&page=1
+2016-09-07 00:31:36,704 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015960832462198&type=repost&hot=0&page=1
+2016-09-07 00:31:39,921 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015945145717288&type=repost&hot=0&page=1
+2016-09-07 00:31:39,921 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015945145717288&type=repost&hot=0&page=1
+2016-09-07 00:31:39,921 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015945145717288&type=repost&hot=0&page=1
+2016-09-07 00:31:39,921 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015945145717288&type=repost&hot=0&page=1
+2016-09-07 00:31:40,239 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015940594755873&type=repost&hot=0&page=1
+2016-09-07 00:31:40,239 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015940594755873&type=repost&hot=0&page=1
+2016-09-07 00:31:40,239 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015940594755873&type=repost&hot=0&page=1
+2016-09-07 00:31:40,239 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015940594755873&type=repost&hot=0&page=1
+2016-09-07 00:31:40,523 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,523 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,523 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,523 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,523 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015939223415122&type=repost&hot=0&page=1
+2016-09-07 00:31:40,523 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015939223415122&type=repost&hot=0&page=1
+2016-09-07 00:31:40,523 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015939223415122&type=repost&hot=0&page=1
+2016-09-07 00:31:40,523 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015939223415122&type=repost&hot=0&page=1
+2016-09-07 00:31:40,670 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,670 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,670 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,670 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,670 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015935113235608&type=repost&hot=0&page=1
+2016-09-07 00:31:40,670 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015935113235608&type=repost&hot=0&page=1
+2016-09-07 00:31:40,670 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015935113235608&type=repost&hot=0&page=1
+2016-09-07 00:31:40,670 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015935113235608&type=repost&hot=0&page=1
+2016-09-07 00:31:40,815 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,815 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,815 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,815 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:40,815 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922362428217&type=repost&hot=0&page=1
+2016-09-07 00:31:40,815 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922362428217&type=repost&hot=0&page=1
+2016-09-07 00:31:40,815 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922362428217&type=repost&hot=0&page=1
+2016-09-07 00:31:40,815 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922362428217&type=repost&hot=0&page=1
+2016-09-07 00:31:40,996 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922056952411&type=repost&hot=0&page=1
+2016-09-07 00:31:40,996 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922056952411&type=repost&hot=0&page=1
+2016-09-07 00:31:40,996 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922056952411&type=repost&hot=0&page=1
+2016-09-07 00:31:40,996 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015922056952411&type=repost&hot=0&page=1
+2016-09-07 00:31:41,151 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,151 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,151 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,151 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,151 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015910967104601&type=repost&hot=0&page=1
+2016-09-07 00:31:41,151 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015910967104601&type=repost&hot=0&page=1
+2016-09-07 00:31:41,151 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015910967104601&type=repost&hot=0&page=1
+2016-09-07 00:31:41,151 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015910967104601&type=repost&hot=0&page=1
+2016-09-07 00:31:41,275 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,275 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,275 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,275 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,276 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015803038668350&type=repost&hot=0&page=1
+2016-09-07 00:31:41,276 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015803038668350&type=repost&hot=0&page=1
+2016-09-07 00:31:41,276 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015803038668350&type=repost&hot=0&page=1
+2016-09-07 00:31:41,276 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015803038668350&type=repost&hot=0&page=1
+2016-09-07 00:31:41,623 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,623 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,623 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,623 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,624 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015775252178140&type=repost&hot=0&page=1
+2016-09-07 00:31:41,624 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015775252178140&type=repost&hot=0&page=1
+2016-09-07 00:31:41,624 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015775252178140&type=repost&hot=0&page=1
+2016-09-07 00:31:41,624 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015775252178140&type=repost&hot=0&page=1
+2016-09-07 00:31:41,774 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,774 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,774 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,774 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,774 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=1
+2016-09-07 00:31:41,774 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=1
+2016-09-07 00:31:41,774 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=1
+2016-09-07 00:31:41,774 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015688643211344&type=repost&hot=0&page=1
+2016-09-07 00:31:41,935 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,935 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,935 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,935 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:41,936 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=1
+2016-09-07 00:31:41,936 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=1
+2016-09-07 00:31:41,936 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=1
+2016-09-07 00:31:41,936 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=1
+2016-09-07 00:31:42,324 spider.py[line:77] INFO -----uid: 0 main page has finished---
+2016-09-07 00:31:42,324 spider.py[line:77] INFO -----uid: 0 main page has finished---
+2016-09-07 00:31:42,324 spider.py[line:77] INFO -----uid: 0 main page has finished---
+2016-09-07 00:31:42,324 spider.py[line:77] INFO -----uid: 0 main page has finished---
+2016-09-07 00:31:43,539 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=2
+2016-09-07 00:31:43,539 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=2
+2016-09-07 00:31:43,539 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=2
+2016-09-07 00:31:43,539 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=2
+2016-09-07 00:31:43,774 spider.py[line:44] INFO -----成功插入10条数据---
+2016-09-07 00:31:43,774 spider.py[line:44] INFO -----成功插入10条数据---
+2016-09-07 00:31:43,774 spider.py[line:44] INFO -----成功插入10条数据---
+2016-09-07 00:31:43,774 spider.py[line:44] INFO -----成功插入10条数据---
+2016-09-07 00:31:43,774 spider.py[line:77] INFO -----uid: 1 main page has finished---
+2016-09-07 00:31:43,774 spider.py[line:77] INFO -----uid: 1 main page has finished---
+2016-09-07 00:31:43,774 spider.py[line:77] INFO -----uid: 1 main page has finished---
+2016-09-07 00:31:43,774 spider.py[line:77] INFO -----uid: 1 main page has finished---
+2016-09-07 00:31:46,700 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=3
+2016-09-07 00:31:46,700 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=3
+2016-09-07 00:31:46,700 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=3
+2016-09-07 00:31:46,700 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016033351635197&type=repost&hot=0&page=3
+2016-09-07 00:31:46,855 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:46,855 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:46,855 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:46,855 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:46,855 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016116252788056&type=repost&hot=0&page=1
+2016-09-07 00:31:46,855 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016116252788056&type=repost&hot=0&page=1
+2016-09-07 00:31:46,855 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016116252788056&type=repost&hot=0&page=1
+2016-09-07 00:31:46,855 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016116252788056&type=repost&hot=0&page=1
+2016-09-07 00:31:46,982 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:46,982 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:46,982 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:46,982 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:46,982 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015366139688115&type=repost&hot=0&page=1
+2016-09-07 00:31:46,982 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015366139688115&type=repost&hot=0&page=1
+2016-09-07 00:31:46,982 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015366139688115&type=repost&hot=0&page=1
+2016-09-07 00:31:46,982 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015366139688115&type=repost&hot=0&page=1
+2016-09-07 00:31:47,152 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,152 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,152 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,152 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,152 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016040268192473&type=repost&hot=0&page=1
+2016-09-07 00:31:47,152 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016040268192473&type=repost&hot=0&page=1
+2016-09-07 00:31:47,152 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016040268192473&type=repost&hot=0&page=1
+2016-09-07 00:31:47,152 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016040268192473&type=repost&hot=0&page=1
+2016-09-07 00:31:47,309 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,309 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,309 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,309 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,309 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016037156647226&type=repost&hot=0&page=1
+2016-09-07 00:31:47,309 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016037156647226&type=repost&hot=0&page=1
+2016-09-07 00:31:47,309 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016037156647226&type=repost&hot=0&page=1
+2016-09-07 00:31:47,309 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016037156647226&type=repost&hot=0&page=1
+2016-09-07 00:31:47,582 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,582 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,582 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,582 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,582 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016009000616189&type=repost&hot=0&page=1
+2016-09-07 00:31:47,582 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016009000616189&type=repost&hot=0&page=1
+2016-09-07 00:31:47,582 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016009000616189&type=repost&hot=0&page=1
+2016-09-07 00:31:47,582 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4016009000616189&type=repost&hot=0&page=1
+2016-09-07 00:31:47,734 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,734 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,734 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,734 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:47,734 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015999902523935&type=repost&hot=0&page=1
+2016-09-07 00:31:47,734 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015999902523935&type=repost&hot=0&page=1
+2016-09-07 00:31:47,734 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015999902523935&type=repost&hot=0&page=1
+2016-09-07 00:31:47,734 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015999902523935&type=repost&hot=0&page=1
+2016-09-07 00:31:48,197 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,197 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,197 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,197 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,197 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015998694351012&type=repost&hot=0&page=1
+2016-09-07 00:31:48,197 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015998694351012&type=repost&hot=0&page=1
+2016-09-07 00:31:48,197 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015998694351012&type=repost&hot=0&page=1
+2016-09-07 00:31:48,197 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015998694351012&type=repost&hot=0&page=1
+2016-09-07 00:31:48,564 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,564 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,564 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,564 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,565 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4013817815679655&type=repost&hot=0&page=1
+2016-09-07 00:31:48,565 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4013817815679655&type=repost&hot=0&page=1
+2016-09-07 00:31:48,565 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4013817815679655&type=repost&hot=0&page=1
+2016-09-07 00:31:48,565 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4013817815679655&type=repost&hot=0&page=1
+2016-09-07 00:31:48,979 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,979 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,979 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,979 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:48,980 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015966847134068&type=repost&hot=0&page=1
+2016-09-07 00:31:48,980 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015966847134068&type=repost&hot=0&page=1
+2016-09-07 00:31:48,980 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015966847134068&type=repost&hot=0&page=1
+2016-09-07 00:31:48,980 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015966847134068&type=repost&hot=0&page=1
+2016-09-07 00:31:49,139 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,139 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,139 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,139 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,140 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015836572453983&type=repost&hot=0&page=1
+2016-09-07 00:31:49,140 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015836572453983&type=repost&hot=0&page=1
+2016-09-07 00:31:49,140 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015836572453983&type=repost&hot=0&page=1
+2016-09-07 00:31:49,140 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015836572453983&type=repost&hot=0&page=1
+2016-09-07 00:31:49,296 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,296 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,296 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,296 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,296 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015768003702371&type=repost&hot=0&page=1
+2016-09-07 00:31:49,296 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015768003702371&type=repost&hot=0&page=1
+2016-09-07 00:31:49,296 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015768003702371&type=repost&hot=0&page=1
+2016-09-07 00:31:49,296 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015768003702371&type=repost&hot=0&page=1
+2016-09-07 00:31:49,453 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,453 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,453 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,453 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,453 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015746651159707&type=repost&hot=0&page=1
+2016-09-07 00:31:49,453 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015746651159707&type=repost&hot=0&page=1
+2016-09-07 00:31:49,453 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015746651159707&type=repost&hot=0&page=1
+2016-09-07 00:31:49,453 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015746651159707&type=repost&hot=0&page=1
+2016-09-07 00:31:49,634 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,634 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,634 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,634 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,634 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014920716341675&type=repost&hot=0&page=1
+2016-09-07 00:31:49,634 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014920716341675&type=repost&hot=0&page=1
+2016-09-07 00:31:49,634 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014920716341675&type=repost&hot=0&page=1
+2016-09-07 00:31:49,634 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4014920716341675&type=repost&hot=0&page=1
+2016-09-07 00:31:49,808 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,808 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,808 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,808 RCSpider.py[line:21] ERROR No JSON object could be decoded
+2016-09-07 00:31:49,809 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015412464955910&type=repost&hot=0&page=1
+2016-09-07 00:31:49,809 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015412464955910&type=repost&hot=0&page=1
+2016-09-07 00:31:49,809 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015412464955910&type=repost&hot=0&page=1
+2016-09-07 00:31:49,809 RCSpider.py[line:26] INFO main_url: http://m.weibo.cn/single/rcList?format=cards&id=4015412464955910&type=repost&hot=0&page=1
