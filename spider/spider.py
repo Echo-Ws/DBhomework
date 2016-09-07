@@ -54,6 +54,9 @@ class Spider(object):
         except Exception as e:
             logger.error(e.message)
 
+    def make_url(self, base_url, page):
+        return base_url+str(page)
+
     def run(self, urls, s_login):
         num = 0
         self.login = s_login
@@ -64,7 +67,7 @@ class Spider(object):
 
             for i in range(100):
                 page = i+1
-                search_url = base_url+str(page)
+                search_url = self.make_url(base_url, page)
                 self.get_respond(search_url)
 
                 try:

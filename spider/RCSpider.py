@@ -21,11 +21,14 @@ class RCSpider(Spider):
             logger.error(e.message)
             return 1
 
+    # 第一次请求其实是请求hot=1 返回的json中包含非热门请求
+    def make_url(self, base_url, page):
+        if page == 1:
+            return re.findall("(.*?)0&page.*", base_url)[0]+'1'
+        return base_url+str(page)
+
     def get_respond(self, search_url):
-        s = self.login
-        logger.info("main_url: " + search_url)
-        r = s.get(search_url, headers=s.headers)
-        self.json = r.text
+        super(RCSpider, self).get_respond(search_url)
         self.omid = re.findall('.*?id=(\d+)&.*', search_url)[0]
         print self.json
 
